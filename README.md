@@ -1,2 +1,2 @@
-# Good-Times
+# Good Times
 Business website repository
