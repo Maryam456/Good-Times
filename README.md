@@ -10,9 +10,9 @@ Business website repository
 []The title or logo on the far left will say good times []and every time I click it, it should take me to my home {}page
 []the search button that I will use will be on the right and if I click on it, it should show me a keyboard where I can search for the names for watches instead of scrolling for it
 
-{]when I click on women watches the website should take to a page similar to the home page but will be showing only men watches
+{]when I click on women watches the website should take to a page similar to the home page but will be showing only men []watches
 
-{}the title that says women watches will be a button and if I click o it, it should take me to a page where it will only be women watches
+{}the title that says women watches will be a button and if I click o it, it should take me to a page where it will only  []be women watches
 []same with new release's but will be the newest watches that came out recently
 []If customer clicks on "about" then a page will appear that has a story to why I decided to make a business about selling watches
 []If I click on "contact" then it should take customer to where my contact information is like a phone number or email so if they have any questions then they will have contact information
